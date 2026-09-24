@@ -9,3 +9,5 @@ Web-интерфейс управления ONT на OLT Eltex LTP-4X/8X.
 
 ## Первый запуск (разработка)
 Двойной клик по `run_dev.bat`. Откройте http://localhost:5173
+
+![Uploading image.png…]()
